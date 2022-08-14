@@ -1,1 +1,0 @@
-# js-general-knowledge
